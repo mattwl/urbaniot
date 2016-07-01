@@ -89,6 +89,13 @@ h5 {
 h6 {
   font-weight: normal;
 }
+li {
+  font-size: 18.004px;
+  /* 18px */
+
+margin: 10px 0;
+
+}
 p {
   font-size: 18.004px;
   /* 18px */
